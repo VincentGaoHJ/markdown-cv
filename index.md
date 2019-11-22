@@ -25,7 +25,7 @@ Data Science, Social Computing, Information Extraction,  [Finance](https://gaoha
 Information System, Information Extraction, Social Computing.
 
 
-## Education
+## EDUCATION
 
 `June 2016 - now`
 __UESTC, China.__
@@ -35,9 +35,9 @@ __UESTC, China.__
 
 
 
-## Awards
+## ACHIEVEMENTS
 
-`Dec. 2017 & Dec. 2018 & Dec. 2019`
+`2017 & 2018 & 2019`
 First-class Scholarship for Excellent Students
 
 `Dec. 2017`
@@ -50,36 +50,34 @@ Top 10 School Athlete
 Advanced Individual in Social Practice
 
 
-## Publications
+## SKILLS
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### Programming
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+C/C++, Python, JAVA, MATLAB
 
-`1669`
-Lectiones opticæ.
+### Software
 
-etc. etc. etc.
+Spark, Hadoop, SPSS, WEKA, LaTeX, Office, Amazon Apache MXNet, S3, Aurora, and other AWS services
 
-### Patents
+### Algorithms
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+traditional machine leaning algorithms such as SVM and Naïve Bayes; ensemble methods such as XGboost and gcForest; deep learning algorithms including CNN, RNN, ResNet, VGG19, Attention Mechanism, Sequence to Sequence Model; and TensorFlow, PyTorch, and clustering algorithms and dimensionality reduction techniques.
 
 
-## Occupation
+## PROFESSIONAL EXPERIENCE
 
-`1600`
-__Royal Mint__, London
+`2018-2019`
+the Association for Science and Technology of the School of Economics and Management
 
-- Warden
-- Minted coins
+- Head
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2017-2019`
+Innovation and Entrepreneurship Workshop Data Science Group of the University
+
+- Team Leader
 
 
 
