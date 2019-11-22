@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Haojun Gao's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Haojun Gao
+Major in Finance and Computer Scince, University of Electronic Science and Technology of China.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="vincentgaohj@gmail">vincentgaohj@gmail</a>
+| <a href="http://gaohaojun.cn">My Personal Website</a>
 </div>
 
 
@@ -17,38 +17,37 @@ Standing on the shoulders of giants
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Data Science, Social Computing, Information Extraction,  [Finance](https://gaohaojun.cn/Blog/)
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Information System, Information Extraction, Social Computing.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`June 2016 - now`
+__UESTC, China.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Bachelor's Degree
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`Dec. 2017 & Dec. 2018 & Dec. 2019`
+First-class Scholarship for Excellent Students
 
-Associate, *French Academy of Science*, Paris, France
+`Dec. 2017`
+Suzhou Industrial Park Scholarship
 
+`Nov. 2017`
+Top 10 School Athlete
+
+`Nov. 2017`
+Advanced Individual in Social Practice
 
 
 ## Publications
